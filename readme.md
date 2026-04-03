@@ -1,7 +1,7 @@
 # CS 3502 - CPU Scheduling Simulator
 
 Extended by Sam Spear - KSU CS 3502 Operating Systems, Section W03, Spring 2026
-Original starter code by Chris Regan (fork of Francis Nweke's project)
+
 
 ## About This Project
 
